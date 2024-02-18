@@ -16,7 +16,7 @@ To use this image gallery project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```
-
+https://github.com/himanshu0072451/Image-Gallery.git
 ```
 
 2. Navigate to the project directory:
